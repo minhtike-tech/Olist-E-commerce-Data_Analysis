@@ -34,10 +34,13 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
 ### 📊 Final Dashboard Previews
 
 **1. Sales Overview Dashboard**
-![Sales Overview](Olist E-Commerce Sales.png)
+![Sales Overview]
+<img width="1002" height="712" alt="Olist E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/f1790be7-90b9-45a8-8a20-cb9037d77618" />
 
 **2. Product & Seller Performance Dashboard**
-![Product and Seller](product-seller & location.png)
+![Product and Seller]
+<img width="1366" height="790" alt="product-seller   location" src="https://github.com/user-attachments/assets/053aeb37-6117-4784-b837-84c0fd50a569" />
+
 ## 🚀 How to View the Project
 1. **Quick View:** Check the `images/` folder for screenshots of Page 1 (Sales Overview) and Page 2 (Product & Seller Performance).
 2. **Interactive View:** Download and open `Olist_Dashboard.pbix` in Power BI Desktop.
