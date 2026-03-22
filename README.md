@@ -7,7 +7,7 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
 
 **1. Data Source (RAW Data)**
 * Due to GitHub's file size limitations, the raw CSV datasets are not included in this repository.
-* The original dataset can be downloaded from **[Here - Link to Kaggle Olist Dataset]**.
+* The original dataset can be downloaded from **(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**.
 
 **2. Data Cleaning & Transformation (Python - Pandas)**
 * The `olist_cleaning.ipynb` notebook contains the complete Python code to handle:
@@ -42,4 +42,4 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
 ## 🚀 How to View the Project
 1. **Quick View:** Check the `images/` folder for screenshots of Page 1 (Sales Overview) and Page 2 (Product & Seller Performance).
 2. **Interactive View:** Download and open `Olist_Dashboard.pbix` in Power BI Desktop.
-3. **Code Review:** Examine the `olist_cleaning.ipynb` and `olist_data_modeling.sql` files to understand the data pipeline logic.
+3. **Code Review:** Examine the `olist_project.ipynb` and `Olist E-commerce.sql` files to understand the data pipeline logic.
