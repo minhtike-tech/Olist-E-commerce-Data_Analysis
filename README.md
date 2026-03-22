@@ -22,8 +22,8 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
 
 **4. Data Visualization (Power BI)**
 * The `Olist_Dashboard.pbix` file contains the final interactive dashboard.
-* For quick viewing, check out the `Olist_Ecommerce.pdf` or the screenshots in the `/images` folder.
-
+* For quick viewing, check out the **[Olist_Ecommerce.pdf](Olist_Ecommerce.pdf)** or the screenshots in the `/images` folder.
+  
 ## 📊 Key Insights from $14.21M Revenue
 * **Massive Sales:** Generated a total revenue of **$14.21M** with **103.11K total orders**.
 * **Preferred Payments:** **Credit Cards** are overwhelmingly the preferred payment method, accounting for **77.23% ($10.97M)** of total revenue.
