@@ -34,13 +34,14 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
   
 ### 📊 Final Dashboard Previews
 
-**1. Sales Overview Dashboard**
-![Sales Overview]<img width="1002" height="712" alt="Olist E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/f1790be7-90b9-45a8-8a20-cb9037d77618" />
+**Page 1: Sales Overview & Location**
+![Sales Dashboard](<img width="1002" height="712" alt="Olist E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/a8e83c53-e42b-48b1-b8fa-0330d5f290d9" />)
 
-**2. Product & Seller Performance Dashboard**
-![Product and Seller]<img width="1366" height="790" alt="product-seller   location" src="https://github.com/user-attachments/assets/053aeb37-6117-4784-b837-84c0fd50a569" />
 
+**Page 2: Product & Seller Performance**
+![Seller Dashboard](<img width="1366" height="790" alt="product-seller   location" src="https://github.com/user-attachments/assets/e658c916-8f91-4556-a1ce-3fde12bc629f" />)
 ## 🚀 How to View the Project
+
 
 1. **Quick View:** See the `Final Dashboard Previews` section above for high-resolution screenshots of the full interactive dashboard.
 2. **Code Review:** Examine the `olist_project.ipynb` (Python) and `Olist E-commerce.sql` (SQL) files to understand the data cleaning, modeling, and pipeline logic.
