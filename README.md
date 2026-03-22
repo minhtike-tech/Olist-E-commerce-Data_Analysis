@@ -38,7 +38,7 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
 <img width="1002" height="712" alt="Olist E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/dcbdc18c-d58c-43cc-abbe-cde65b6e1812" />
 
 **2. Product & Seller Performance Dashboard**
-![Product and Seller](<img width="1366" height="790" alt="product-seller   location" src="https://github.com/user-attachments/assets/18bb6803-5391-4ba5-b3f3-6c341e5319fe" />)
+![](product-seller & location.png)
 
 ## 🚀 How to View the Project
 
