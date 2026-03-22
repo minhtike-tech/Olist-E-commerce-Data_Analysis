@@ -31,7 +31,13 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
 * **Peak Season:** A notable sales peak occurred in **May**.
 * **Geography:** High-value customers and top sellers are heavily concentrated in **Southeast Brazil** (Sao Paulo/Rio de Janeiro areas).
 * **Customer Satisfaction:** The **'CDs/DVDs/Musicals'** category holds the highest average customer satisfaction score (**4.64/5 stars**).
+### 📊 Final Dashboard Previews
 
+**1. Sales Overview Dashboard**
+![Sales Overview](Olist E-Commerce Sales.png)
+
+**2. Product & Seller Performance Dashboard**
+![Product and Seller](product-seller & location.png)
 ## 🚀 How to View the Project
 1. **Quick View:** Check the `images/` folder for screenshots of Page 1 (Sales Overview) and Page 2 (Product & Seller Performance).
 2. **Interactive View:** Download and open `Olist_Dashboard.pbix` in Power BI Desktop.
