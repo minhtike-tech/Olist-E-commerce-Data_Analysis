@@ -34,11 +34,13 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
 
 ### 📊 Final Dashboard Previews
 
-**1. Sales Overview Dashboard**
+### 📊 Final Dashboard Previews
 
+**1. Sales Overview Dashboard**
 ![](images/<Olist E-Commerce Sales Dashboard.png>)
 
 **2. Product & Seller Performance Dashboard**
+![](images/<product-seller & location.png>)
 
 ![](images/<product-seller & location.png>)
 ## 🚀 How to View the Project
