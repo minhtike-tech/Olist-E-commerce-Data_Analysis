@@ -7,7 +7,7 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
 
 **1. Data Source (RAW Data)**
 * Due to GitHub's file size limitations, the raw CSV datasets are not included in this repository.
-* The original dataset can be downloaded from **(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**.
+* The original dataset can be downloaded from **[Kaggle: Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**.
 
 **2. Data Cleaning & Transformation (Python - Pandas)**
 * The `olist_cleaning.ipynb` notebook contains the complete Python code to handle:
