@@ -31,6 +31,7 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
 * **Peak Season:** A notable sales peak occurred in **May**.
 * **Geography:** High-value customers and top sellers are heavily concentrated in **Southeast Brazil** (Sao Paulo/Rio de Janeiro areas).
 * **Customer Satisfaction:** The **'CDs/DVDs/Musicals'** category holds the highest average customer satisfaction score (**4.64/5 stars**).
+  
 ### 📊 Final Dashboard Previews
 
 **1. Sales Overview Dashboard**
@@ -40,6 +41,6 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
 ![Product and Seller]<img width="1366" height="790" alt="product-seller   location" src="https://github.com/user-attachments/assets/053aeb37-6117-4784-b837-84c0fd50a569" />
 
 ## 🚀 How to View the Project
-1. **Quick View:** Check the `images/` folder for screenshots of Page 1 (Sales Overview) and Page 2 (Product & Seller Performance).
-2. **Interactive View:** Download and open `Olist_Dashboard.pbix` in Power BI Desktop.
-3. **Code Review:** Examine the `olist_project.ipynb` and `Olist E-commerce.sql` files to understand the data pipeline logic.
+
+1. **Quick View:** See the `Final Dashboard Previews` section above for high-resolution screenshots of the full interactive dashboard.
+2. **Code Review:** Examine the `olist_project.ipynb` (Python) and `Olist E-commerce.sql` (SQL) files to understand the data cleaning, modeling, and pipeline logic.
