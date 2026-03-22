@@ -31,15 +31,15 @@ This repository contains a comprehensive, end-to-end data analytics portfolio pr
 * **Peak Season:** A notable sales peak occurred in **May**.
 * **Geography:** High-value customers and top sellers are heavily concentrated in **Southeast Brazil** (Sao Paulo/Rio de Janeiro areas).
 * **Customer Satisfaction:** The **'CDs/DVDs/Musicals'** category holds the highest average customer satisfaction score (**4.64/5 stars**).
-  
+
 ### 📊 Final Dashboard Previews
 
-**Page 1: Sales Overview & Location**
-![Sales Dashboard](<img width="1002" height="712" alt="Olist E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/a8e83c53-e42b-48b1-b8fa-0330d5f290d9" />)
+**1. Sales Overview Dashboard**
+![Sales Overview](<img width="1002" height="712" alt="Olist E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/dcbdc18c-d58c-43cc-abbe-cde65b6e1812" />)
 
+**2. Product & Seller Performance Dashboard**
+![Product and Seller](<img width="1366" height="790" alt="product-seller   location" src="https://github.com/user-attachments/assets/18bb6803-5391-4ba5-b3f3-6c341e5319fe" />)
 
-**Page 2: Product & Seller Performance**
-![Seller Dashboard](<img width="1366" height="790" alt="product-seller   location" src="https://github.com/user-attachments/assets/e658c916-8f91-4556-a1ce-3fde12bc629f" />)
 ## 🚀 How to View the Project
 
 
